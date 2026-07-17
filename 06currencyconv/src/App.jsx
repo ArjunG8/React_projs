@@ -42,7 +42,7 @@ function App() {
         <div className="fade-in glow card-hover bg-white/20 backdrop-blur-xl border border-white/30 rounded-3xl shadow-2xl p-6">
 
           {/* Heading */}
-          <h1 className="float text-4xl font-bold text-center mb-6 bg-gradient-to-r from-cyan-300 via-blue-400 to-purple-500 bg-clip-text text-transparent">
+          <h1 className=" text-4xl font-bold text-center mb-6 bg-gradient-to-r from-cyan-300 via-blue-400 to-purple-500 bg-clip-text text-transparent">
             💱 Currency Converter
           </h1>
 

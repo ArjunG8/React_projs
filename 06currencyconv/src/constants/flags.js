@@ -1,0 +1,17 @@
+export const currencyToCountry = {
+    usd: "us",
+    inr: "in",
+    eur: "eu",
+    gbp: "gb",
+    jpy: "jp",
+    cad: "ca",
+    aud: "au",
+    cny: "cn",
+    chf: "ch",
+    aed: "ae",
+    nzd: "nz",
+    sgd: "sg",
+    zar: "za",
+    rub: "ru",
+    krw: "kr",
+};
